@@ -1,0 +1,9 @@
+C:\Users\q7337\OneDrive\桌面\第三週作業(牌照稅)\CarTaxForm\CarTaxForm\bin\Debug\CarTaxForm.exe.config
+C:\Users\q7337\OneDrive\桌面\第三週作業(牌照稅)\CarTaxForm\CarTaxForm\bin\Debug\CarTaxForm.exe
+C:\Users\q7337\OneDrive\桌面\第三週作業(牌照稅)\CarTaxForm\CarTaxForm\bin\Debug\CarTaxForm.pdb
+C:\Users\q7337\OneDrive\桌面\第三週作業(牌照稅)\CarTaxForm\CarTaxForm\obj\Debug\CarTaxForm.csproj.AssemblyReference.cache
+C:\Users\q7337\OneDrive\桌面\第三週作業(牌照稅)\CarTaxForm\CarTaxForm\obj\Debug\CarTaxForm.CarTaxForm.resources
+C:\Users\q7337\OneDrive\桌面\第三週作業(牌照稅)\CarTaxForm\CarTaxForm\obj\Debug\CarTaxForm.csproj.GenerateResource.cache
+C:\Users\q7337\OneDrive\桌面\第三週作業(牌照稅)\CarTaxForm\CarTaxForm\obj\Debug\CarTaxForm.csproj.CoreCompileInputs.cache
+C:\Users\q7337\OneDrive\桌面\第三週作業(牌照稅)\CarTaxForm\CarTaxForm\obj\Debug\CarTaxForm.exe
+C:\Users\q7337\OneDrive\桌面\第三週作業(牌照稅)\CarTaxForm\CarTaxForm\obj\Debug\CarTaxForm.pdb
