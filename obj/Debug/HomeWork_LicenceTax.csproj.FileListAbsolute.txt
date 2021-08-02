@@ -1,0 +1,10 @@
+C:\Users\q7337\OneDrive\桌面\HomeWork_LicenceTax-master\bin\Debug\HomeWork_LicenceTax.exe.config
+C:\Users\q7337\OneDrive\桌面\HomeWork_LicenceTax-master\bin\Debug\HomeWork_LicenceTax.exe
+C:\Users\q7337\OneDrive\桌面\HomeWork_LicenceTax-master\bin\Debug\HomeWork_LicenceTax.pdb
+C:\Users\q7337\OneDrive\桌面\HomeWork_LicenceTax-master\obj\Debug\HomeWork_LicenceTax.csproj.AssemblyReference.cache
+C:\Users\q7337\OneDrive\桌面\HomeWork_LicenceTax-master\obj\Debug\HomeWork_LicenceTax.Form1.resources
+C:\Users\q7337\OneDrive\桌面\HomeWork_LicenceTax-master\obj\Debug\HomeWork_LicenceTax.Properties.Resources.resources
+C:\Users\q7337\OneDrive\桌面\HomeWork_LicenceTax-master\obj\Debug\HomeWork_LicenceTax.csproj.GenerateResource.cache
+C:\Users\q7337\OneDrive\桌面\HomeWork_LicenceTax-master\obj\Debug\HomeWork_LicenceTax.csproj.CoreCompileInputs.cache
+C:\Users\q7337\OneDrive\桌面\HomeWork_LicenceTax-master\obj\Debug\HomeWork_LicenceTax.exe
+C:\Users\q7337\OneDrive\桌面\HomeWork_LicenceTax-master\obj\Debug\HomeWork_LicenceTax.pdb
